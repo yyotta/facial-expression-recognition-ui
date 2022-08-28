@@ -1,5 +1,9 @@
 # facial-expression-recognition-ui
 
+> 代码即将发布。 
+
+> It is coming soon.
+
 ## Introduction
 
 使用pyqt5实现了人脸面部表情的实时检测界面设计，包括以下功能：
